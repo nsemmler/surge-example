@@ -1,0 +1,19 @@
+{
+  "name": "surge-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha",
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "live-server": "^1.2.0",
+    "mocha": "^5.2.0",
+    "nyc": "^11.8.0"
+  }
+}
